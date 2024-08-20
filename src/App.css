@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+
+.app-container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #007bff;
+}

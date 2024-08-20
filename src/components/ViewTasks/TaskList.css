@@ -1,0 +1,31 @@
+.task-list {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.task-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.task-list ul li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.task-list ul li div {
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    margin: 0 auto;
+}
+.Pending{
+    color: red;
+}
+
+.Completed{
+    color: green;
+}
+.InProgress{
+    color: blue;
+}

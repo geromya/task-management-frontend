@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: #f0f3f9;
+  }
+
+.home-container {
+    text-align: center;
+    margin-top: 50px;
+
+    h1{
+        color:  rgb(108, 28, 28);
+        
+    }
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #59449d;
+    font-size: 20px;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
